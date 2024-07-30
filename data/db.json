@@ -1,0 +1,58 @@
+{
+  "heros": [
+    {
+      "heroimage": "/batman.jpeg",
+      "name": "Batman",
+      "favDialogue": "I am vengeance.I am the night.I am the Batman!",
+      "id": "1"
+    },
+    {
+      "heroimage": "/BlackPanther.png",
+      "name": "Black Panther",
+      "favDialogue": "Wakanda Forever!",
+      "id": "2"
+    },
+    {
+      "heroimage": "/Captain-america.jpg",
+      "name": "Captain ",
+      "favDialogue": "I can do this all day",
+      "id": "3"
+    },
+    {
+      "heroimage": "/Drstrange.jpeg",
+      "name": "Doctor Strange",
+      "favDialogue": "Dormammu,I've come to bargain",
+      "id": "4"
+    },
+    {
+      "heroimage": "/Flash.jpeg",
+      "name": "Flash",
+      "favDialogue": "My name is Barry Allen,and I am the fastest man Alive",
+      "id": "5"
+    },
+    {
+      "heroimage": "/Hulk.webp",
+      "name": "Hulk",
+      "favDialogue": "Hulk Smash!",
+      "id": "6"
+    },
+    {
+      "heroimage": "/Spider-Man.webp",
+      "name": "SpiderMan",
+      "favDialogue": "With great power comes great responsibility",
+      "id": "7"
+    },
+    {
+      "heroimage": "/superman.jpeg",
+      "name": "SuperMan",
+      "favDialogue": "Trust,justice and the American way",
+      "id": "8"
+    },
+    {
+      "heroimage": "/Thor.jpeg",
+      "name": "Thor",
+      "favDialogue": "For Asgard!",
+      "id": "9"
+    }
+  ]
+}
